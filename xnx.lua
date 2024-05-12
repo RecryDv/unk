@@ -1,4 +1,5 @@
 return function()
+	print("killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish killer fish")
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
 	Name = "wasd club",
